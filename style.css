@@ -115,6 +115,7 @@ form button:hover {
         background: url(images/bg-pattern-desktop.svg) no-repeat center/cover;
         display: grid;
         place-content: center;
+        height: 100vh;
     }
 
     main {
